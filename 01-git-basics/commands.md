@@ -106,3 +106,10 @@ git log --oneline
 git remote add origin
 git remote -v 
 git push
+
+
+
+##Branching practice
+
+tgis section was created on the feature-branching
+ branch.
