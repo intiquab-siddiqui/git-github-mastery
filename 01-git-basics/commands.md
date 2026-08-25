@@ -115,6 +115,7 @@ tgis section was created on the feature-branching
  branch.
 
 
+
 ## Merge Conflict Practice
 
-This line was created directly on the master branch.
+This section demonstrates how Git merge conflicts are resolved.
