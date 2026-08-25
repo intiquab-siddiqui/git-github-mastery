@@ -113,3 +113,8 @@ git push
 
 tgis section was created on the feature-branching
  branch.
+
+
+## Merge Conflict Practice
+
+This line was created on the conflict-practice branch.
